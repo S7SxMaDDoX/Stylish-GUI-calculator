@@ -7,10 +7,6 @@ a.title("GAURU")
 a.geometry("355x533")
 a.resizable(0,0)
 
-
-#image = Image.open("C:\Users\itsga\Downloads\pbgm_l3sb_210528.png")
-#icon= ImageTk.PhotoImage(image)
-
 # Set the window icon
 #a.iconphoto(True,icon)
 def calculate(event=None):
